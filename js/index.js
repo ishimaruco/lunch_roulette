@@ -23,7 +23,7 @@ var store = [
 					'<a href="https://tabelog.com/tokyo/A1307/A130702/13004451/" target="_blank">麻布十番「旬の味　たき下」:焼き魚</a>',
 					'<a href="https://tabelog.com/tokyo/A1307/A130704/13113813/" target="_blank">神谷町「天雷軒 神谷町店」:ラーメン</a>',
 					'<a href="https://tabelog.com/tokyo/A1307/A130701/13169315/" target="_blank">六本木「桃山 六本木店」:山形そば</a>',
-					'<a href="https://tabelog.com/tokyo/A1307/A130702/13178200//" target="_blank">麻布十番「新福菜館」:ラーメン</a>',
+					'<a href="https://tabelog.com/tokyo/A1307/A130702/13178200/" target="_blank">麻布十番「新福菜館」:ラーメン</a>',
 					'<a href="https://tabelog.com/tokyo/A1307/A130702/13014306/" target="_blank">麻布十番「天のや」:たまごサンド</a>',
 					'<a href="https://tabelog.com/tokyo/A1307/A130701/13180316/" target="_blank">六本木「メゾン ランドゥメンヌ トーキョー」:パン</a>',
 					'<a href="https://tabelog.com/tokyo/A1307/A130702/13030935/" target="_blank">麻布十番「アレ フランス カフェ ダリア」:パン</a>',
