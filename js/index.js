@@ -27,7 +27,15 @@ var store = [
 					'<a href="https://tabelog.com/tokyo/A1307/A130702/13014306/" target="_blank">麻布十番「天のや」:たまごサンド</a>',
 					'<a href="https://tabelog.com/tokyo/A1307/A130701/13180316/" target="_blank">六本木「メゾン ランドゥメンヌ トーキョー」:パン</a>',
 					'<a href="https://tabelog.com/tokyo/A1307/A130702/13030935/" target="_blank">麻布十番「アレ フランス カフェ ダリア」:パン</a>',
-					'<a href="https://tabelog.com/tokyo/A1307/A130702/13004566/" target="_blank">麻布十番「ポワンタージュ」:ランチプレート</a>'
+					'<a href="https://tabelog.com/tokyo/A1307/A130702/13004566/" target="_blank">麻布十番「ポワンタージュ」:ランチプレート</a>',
+					'<a href="https://tabelog.com/tokyo/A1307/A130701/13119438/" target="_blank">六本木「神楽」:鶏肉料理</a>',
+					'<a href="https://tabelog.com/tokyo/A1307/A130701/13034655/" target="_blank">六本木「バイカル」:ロシア料理</a>',
+					'<a href="https://tabelog.com/tokyo/A1308/A130802/13147215/" target="_blank">六本木「バジル」:カレー</a>',
+					'<a href="https://tabelog.com/tokyo/A1307/A130701/13143552/" target="_blank">六本木「七草」:しゃぶしゃぶ</a>',
+					'<a href="https://tabelog.com/tokyo/A1307/A130701/13144423/" target="_blank">六本木「サヒファケバブビリヤニ」:ビリヤニ</a>',
+					'<a href="https://tabelog.com/tokyo/A1307/A130704/13019915/" target="_blank">神谷町「ニルヴァナム」:インド料理</a>',
+					'<a href="https://tabelog.com/tokyo/A1308/A130801/13050257/" target="_blank">赤坂「サファリ」:アフリカ料理</a>',
+					'<a href="https://tabelog.com/tokyo/A1307/A130701/13154183/" target="_blank">六本木「デリー」:カレー</a>'
 				]
 
 // スタートボタンを押したときの処理
