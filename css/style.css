@@ -7,6 +7,7 @@ body {
 	width: 100vw;
 	height: 100vh;
 	overflow-x: hidden;
+	-webkit-text-size-adjust:100%
 }
 
 header {
@@ -176,3 +177,11 @@ a:visited {
 		width: 40%;
 	}
 }
+
+/* スマホ横長の場合 */
+@media only screen and (orientation : landscape) {
+	body {
+		font-size:12pt;
+	}
+}
+

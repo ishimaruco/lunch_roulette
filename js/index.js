@@ -35,7 +35,10 @@ var store = [
 					'<a href="https://tabelog.com/tokyo/A1307/A130701/13144423/" target="_blank">六本木「サヒファケバブビリヤニ」:ビリヤニ</a>',
 					'<a href="https://tabelog.com/tokyo/A1307/A130704/13019915/" target="_blank">神谷町「ニルヴァナム」:インド料理</a>',
 					'<a href="https://tabelog.com/tokyo/A1308/A130801/13050257/" target="_blank">赤坂「サファリ」:アフリカ料理</a>',
-					'<a href="https://tabelog.com/tokyo/A1307/A130701/13154183/" target="_blank">六本木「デリー」:カレー</a>'
+					'<a href="https://tabelog.com/tokyo/A1307/A130701/13154183/" target="_blank">六本木「デリー」:カレー</a>',
+					'<a href="https://tabelog.com/tokyo/A1307/A130701/13014520/" target="_blank">六本木「キッチンれん」:洋食</a>',
+					'<a href="https://tabelog.com/tokyo/A1307/A130701/13041425/" target="_blank">六本木「ゆにおん」:定食</a>',
+					'<a href="https://tabelog.com/tokyo/A1307/A130701/13015221/" target="_blank">六本木「ほの字」:定食</a>'
 				]
 
 // スタートボタンを押したときの処理
