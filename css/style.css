@@ -26,7 +26,7 @@ h1{
 position: relative;
 display: inline-block;
 padding: 0 55px;
-line-height: 300px;
+line-height: 200px;
 font-size: 15px;
 }
 
@@ -55,6 +55,10 @@ h1, p , a {
 img{
 	width: auto;
 	max-height: 150px;
+}
+
+a {
+	line-height: normal;
 }
 
 a:visited {
@@ -163,8 +167,11 @@ a:visited {
 		margin-top: 20px;
 		width: 250px;
 	}
-	p {
+	#isPlace {
 		font-size: 20px;
+	}
+	.reference p {
+		font-size: 8px;
 	}
 	img {
 		width: auto;
@@ -182,6 +189,10 @@ a:visited {
 @media only screen and (orientation : landscape) {
 	body {
 		font-size:12pt;
+		color: red;
+	}
+	footer {
+		top: 100%;
 	}
 }
 
